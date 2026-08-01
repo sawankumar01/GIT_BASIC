@@ -1,2 +1,2 @@
-This line is written using echo command
-This line is Written using vim
+This line is written with echo comman.
+This line is written using Vim. 
